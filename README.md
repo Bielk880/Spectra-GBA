@@ -100,6 +100,10 @@ O Spectra foi desenvolvido com auxílio de IA na programação. A direção do p
 
 O jogo que aparece nas capturas é o Spectra Ghost, um jogo de demonstração feito para o projeto.
 
+## Licença e privacidade
+
+O Spectra GBA é distribuído gratuitamente, com todos os direitos reservados. Veja a [licença](LICENSE) e a [política de privacidade](PRIVACY.md).
+
 ## Aviso legal
 
 O Spectra GBA não inclui jogos nem arquivos de BIOS e não apoia a pirataria.

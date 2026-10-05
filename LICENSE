@@ -1,0 +1,51 @@
+Spectra GBA
+Copyright (c) 2026 Bielk880. Todos os direitos reservados.
+
+O Spectra GBA (código, interface, nome, logo e demais elementos visuais) é
+de propriedade do autor. É permitido baixar e usar o aplicativo gratuitamente
+para fins pessoais, a partir da página oficial:
+https://github.com/Bielk880/Spectra-GBA
+
+Sem autorização prévia do autor, não é permitido:
+- copiar, modificar ou redistribuir o aplicativo ou partes dele;
+- publicar versões alteradas, com outro nome ou em outras lojas e sites;
+- usar o nome ou o logo do Spectra GBA de forma que sugira um produto oficial.
+
+O aplicativo é fornecido "como está", sem garantias de qualquer tipo.
+
+--------------------------------------------------------------------------
+COMPONENTES DE TERCEIROS
+
+Este aplicativo inclui componentes de código aberto, que seguem as suas
+próprias licenças e não estão cobertos pelo aviso acima:
+
+mGBA
+Copyright (c) Jeffrey Pfau e colaboradores
+Licença: Mozilla Public License 2.0 (https://mozilla.org/MPL/2.0/)
+Código-fonte: https://github.com/mgba-emu/mgba
+
+rcheevos
+Copyright (c) 2018 RetroAchievements.org
+Licença: MIT
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+--------------------------------------------------------------------------
+Game Boy Advance é marca registrada da Nintendo. O Spectra GBA não tem
+ligação nem aprovação da Nintendo e não inclui jogos nem arquivos de BIOS.
