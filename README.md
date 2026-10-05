@@ -1,39 +1,106 @@
-# Spectra GBA
+<p align="center">
+  <img src="banner.png" alt="Spectra GBA">
+</p>
 
-Emulador de Game Boy Advance para Android: leve, bonito e cheio de recursos.
+<p align="center">
+  <a href="https://github.com/Bielk880/Spectra-GBA/releases/latest"><b>Baixar a última versão</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Bielk880/Spectra-GBA/issues">Relatar um problema</a>
+</p>
 
-**[⬇️ Baixar a versão mais recente](https://github.com/Bielk880/Spectra-GBA/releases/latest)**
-(baixe o arquivo `.apk` em Assets, não o "Source code")
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/Bielk880/Spectra-GBA?label=vers%C3%A3o&color=8b5cf6">
+  <img src="https://img.shields.io/badge/Android-7.0%2B-22d3ee">
+  <img src="https://img.shields.io/github/downloads/Bielk880/Spectra-GBA/total?label=downloads&color=ec4899">
+</p>
 
-## Recursos
-- Emulação precisa e fluida com o núcleo mGBA
+---
+
+## Capturas de tela
+
+<p align="center">
+  <img src="print1.png" width="24%">
+  <img src="print2.png" width="24%">
+  <img src="print3.png" width="24%">
+  <img src="print4.png" width="24%">
+</p>
+
+<p align="center">
+  <img src="print5.png" width="98%">
+</p>
+
+<details>
+  <summary><b>Ver todas as configurações</b></summary>
+  <br>
+  <p align="center"><img src="config.png" width="98%"></p>
+</details>
+
+## Sobre o projeto
+
+O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual caprichado e as funções que realmente fazem falta no dia a dia. Por baixo, ele usa o mGBA, um dos núcleos de emulação mais precisos que existem.
+
+## Funções
+
+**Jogo**
 - Save states com miniatura, salvamento automático e "retomar de onde parou"
-- Rewind (voltar no tempo) e turbo de 2x a 4x
-- Cheats (GameShark, Action Replay e CodeBreaker)
+- Rewind para voltar alguns segundos no tempo
+- Turbo de 2x a 4x
+- Cheats nos formatos GameShark, Action Replay e CodeBreaker
 - Conquistas do RetroAchievements
-- Saves .sav compatíveis com PKHeX, com exportar e importar
+
+**Controles**
+- Botões na tela totalmente ajustáveis: posição, tamanho, estilo e cor
+- Direcional em setas, cruz clássica ou joystick
+- Suporte a controle Bluetooth, com mapeamento de botões
+- Os botões da tela somem sozinhos quando um controle é conectado
+
+**Visual**
+- 10 filtros de imagem, entre eles LCD, Scanlines, Verde GB e Pocket
+- Temas de cores e fundo personalizável ao redor da tela do jogo
+- Tela cheia ou ampliada no modo horizontal
+
+**Saves e biblioteca**
+- Saves .sav compatíveis com PKHeX, com opção de exportar e importar
 - Backup dos saves no Google Drive
-- 10 filtros de imagem e temas de cores
-- Controles personalizáveis: posição, tamanho, estilo, cor, D-pad ou joystick
-- Suporte a controle Bluetooth com mapeamento de botões
 - Biblioteca com busca, capas e tempo de jogo
-- Fundo personalizável: preto, cor, arte ou sua imagem
+- Tela de início original do GBA, usando a sua própria BIOS (opcional)
 
-## Como instalar
-1. Baixe o `.apk` na página de lançamentos
-2. Se o Android avisar sobre app desconhecido, permita a instalação
-3. Abra o app e toque em **Sincronizar** para achar seus jogos
+## Requisitos
 
-## Aviso
-O Spectra GBA não inclui jogos nem BIOS e não apoia pirataria.
-Use apenas jogos e arquivos que você possui legalmente.
-Game Boy Advance é marca da Nintendo. Este projeto não é afiliado nem endossado pela Nintendo.
+- Android 7.0 ou superior
+- Processador de 64 bits (praticamente todos os celulares dos últimos anos)
+
+## Instalação
+
+1. Baixe o arquivo `.apk` na [página de lançamentos](https://github.com/Bielk880/Spectra-GBA/releases/latest)
+2. Abra o arquivo e permita a instalação, se o Android pedir
+3. No app, toque em **Sincronizar** para encontrar seus jogos ou em **Adicionar** para escolher um arquivo
+
+## Perguntas frequentes
+
+**O app vem com jogos?**
+Não. O Spectra é só o emulador. Use cópias de jogos que você possui.
+
+**Preciso da BIOS do GBA?**
+Não. Ela é opcional e serve para exibir a tela de início original do console.
+
+**Meus saves são compatíveis com outros emuladores?**
+Sim. O formato .sav é o mesmo usado pela maioria dos emuladores e pelo PKHeX.
+
+## Encontrou um problema?
+
+Abra uma [Issue](https://github.com/Bielk880/Spectra-GBA/issues) contando o que aconteceu, o modelo do seu celular e o jogo. Sugestões também são bem-vindas.
 
 ## Créditos
-- Núcleo de emulação: [mGBA](https://mgba.io) por Jeffrey Pfau e colaboradores (Mozilla Public License 2.0)
-- Conquistas: [rcheevos](https://github.com/RetroAchievements/rcheevos) do RetroAchievements (MIT License)
 
-Desenvolvido com ajuda de IA na programação. Ideias, testes e ajustes por mim, com sugestões da comunidade.
+- Emulação: [mGBA](https://mgba.io), de Jeffrey Pfau e colaboradores (Mozilla Public License 2.0)
+- Conquistas: [rcheevos](https://github.com/RetroAchievements/rcheevos), do RetroAchievements (MIT License)
 
-## Bugs e sugestões
-Abra uma [Issue](https://github.com/Bielk880/Spectra-GBA/issues) ou comente no grupo.
+O Spectra foi desenvolvido com auxílio de IA na programação. A direção do projeto, os testes e os ajustes foram feitos por mim, com base nas sugestões da comunidade.
+
+O jogo que aparece nas capturas é o Spectra Ghost, um jogo de demonstração feito para o projeto.
+
+## Aviso legal
+
+O Spectra GBA não inclui jogos nem arquivos de BIOS e não apoia a pirataria.
+Game Boy Advance é marca registrada da Nintendo. Este projeto não tem ligação nem aprovação da Nintendo.
