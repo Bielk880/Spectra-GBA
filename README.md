@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="Spectra GBA">
+  <img src="logo.png" width="120" alt="Spectra GBA">
+</p>
+
+<h1 align="center">Spectra GBA</h1>
+
+<p align="center">
+  Emulador de Game Boy Advance para Android, feito para jogar no celular com conforto.
 </p>
 
 <p align="center">
@@ -26,14 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="print5.png" width="98%">
+  <img src="banner.png" width="98%">
 </p>
-
-<details>
-  <summary><b>Ver todas as configurações</b></summary>
-  <br>
-  <p align="center"><img src="config.png" width="98%"></p>
-</details>
 
 ## Sobre o projeto
 
@@ -42,27 +42,30 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 ## Funções
 
 **Jogo**
+- Modo Link: dois jogos rodando ao mesmo tempo no mesmo celular, ligados por um cabo virtual, para trocar e batalhar
 - Save states com miniatura, salvamento automático e "retomar de onde parou"
 - Rewind para voltar alguns segundos no tempo
-- Turbo de 2x a 4x
+- Velocidade de 0.2x (câmera lenta) até 16x
 - Cheats nos formatos GameShark, Action Replay e CodeBreaker
 - Conquistas do RetroAchievements
 
 **Controles**
 - Botões na tela totalmente ajustáveis: posição, tamanho, estilo e cor
+- 7 estilos de botão, entre eles Vidro, Neon, Relevo 3D e Retrô
 - Direcional em setas, cruz clássica ou joystick
+- Barra de atalhos que pode ser movida, redimensionada ou escondida
 - Suporte a controle Bluetooth, com mapeamento de botões
-- Os botões da tela somem sozinhos quando um controle é conectado
 
 **Visual**
-- 10 filtros de imagem, entre eles LCD, Scanlines, Verde GB e Pocket
-- Temas de cores e fundo personalizável ao redor da tela do jogo
-- Tela cheia ou ampliada no modo horizontal
+- 14 filtros de imagem, entre eles LCD, Scanlines, CRT, Suave e Conforto (menos luz azul)
+- 12 fundos para a tela do jogo, além de cor sólida ou imagem da sua galeria
+- Temas de cores e tela cheia ou ampliada no modo horizontal
 
 **Saves e biblioteca**
 - Saves .sav compatíveis com PKHeX, com opção de exportar e importar
 - Backup dos saves no Google Drive
 - Biblioteca com busca, capas e tempo de jogo
+- Aviso automático quando sai uma versão nova
 - Tela de início original do GBA, usando a sua própria BIOS (opcional)
 
 ## Requisitos
@@ -76,6 +79,8 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 2. Abra o arquivo e permita a instalação, se o Android pedir
 3. No app, toque em **Sincronizar** para encontrar seus jogos ou em **Adicionar** para escolher um arquivo
 
+Para atualizar, é só instalar a versão nova por cima. Seus jogos, saves e configurações continuam. A partir da versão 2.6, o próprio app avisa quando houver atualização.
+
 ## Perguntas frequentes
 
 **O app vem com jogos?**
@@ -86,6 +91,9 @@ Não. Ela é opcional e serve para exibir a tela de início original do console.
 
 **Meus saves são compatíveis com outros emuladores?**
 Sim. O formato .sav é o mesmo usado pela maioria dos emuladores e pelo PKHeX.
+
+**Como funciona o Modo Link?**
+No menu da biblioteca, escolha Modo Link e selecione dois jogos. Os dois rodam juntos, e você alterna entre eles tocando no nome do jogador. Para trocar ou batalhar, use a opção de conexão por cabo dentro de cada jogo. Faça backup dos saves antes de usar.
 
 ## Encontrou um problema?
 
