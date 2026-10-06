@@ -9,8 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bielk880/Spectra-GBA/releases/latest"><b>Baixar a última versão</b></a>
-  &nbsp;·&nbsp;
+  <a href="https://github.com/Bielk880/Spectra-GBA/releases/latest"><img src="https://img.shields.io/badge/Baixar-64%20bits-8b5cf6?style=for-the-badge" alt="Baixar a última versão (64 bits)"></a>
+  &nbsp;
+  <a href="https://github.com/Bielk880/Spectra-GBA/releases/tag/2.6.32bits"><img src="https://img.shields.io/badge/Baixar-32%20bits-22d3ee?style=for-the-badge" alt="Baixar a última versão (32 bits)"></a>
+</p>
+
+<p align="center">
+  Não sabe qual baixar? Tente primeiro a de 64 bits. Se o celular disser que não é compatível, use a de 32 bits.
+  <br>
   <a href="https://github.com/Bielk880/Spectra-GBA/issues">Relatar um problema</a>
 </p>
 
