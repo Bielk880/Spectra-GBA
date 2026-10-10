@@ -78,7 +78,7 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 ## Requisitos
 
 - Android 7.0 ou superior
-- Funciona em celulares de 64 bits e de 32 bits (cada um tem a sua versão para baixar)
+- Funciona em celulares de 64 bits e de 32 bits.
 
 ## Instalação
 
