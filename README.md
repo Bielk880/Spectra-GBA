@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Bielk880/Spectra-GBA/releases/latest"><img src="https://img.shields.io/badge/Baixar-64%20bits-8b5cf6?style=for-the-badge" alt="Baixar a última versão (64 bits)"></a>
   &nbsp;
-  <a href="https://github.com/Bielk880/Spectra-GBA/releases/tag/2.6.32bits"><img src="https://img.shields.io/badge/Baixar-32%20bits-22d3ee?style=for-the-badge" alt="Baixar a última versão (32 bits)"></a>
+  <a href="https://github.com/Bielk880/Spectra-GBA/releases"><img src="https://img.shields.io/badge/Baixar-32%20bits-22d3ee?style=for-the-badge" alt="Baixar a última versão (32 bits)"></a>
 </p>
 
 <p align="center">
@@ -50,22 +50,23 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 **Jogo**
 - Modo Link: dois jogos rodando ao mesmo tempo no mesmo celular, ligados por um cabo virtual, para trocar e batalhar
 - Save states com miniatura, salvamento automático e "retomar de onde parou"
+- Save states também no Modo Link: salva os dois jogos juntos, até no meio de uma troca ou batalha
 - Rewind para voltar alguns segundos no tempo
 - Velocidade de 0.2x (câmera lenta) até 16x
 - Cheats nos formatos GameShark, Action Replay e CodeBreaker
 - Conquistas do RetroAchievements
 
 **Controles**
-- Botões na tela totalmente ajustáveis: posição, tamanho, estilo e cor
-- 7 estilos de botão, entre eles Vidro, Neon, Relevo 3D e Retrô
-- Direcional em setas, cruz clássica ou joystick
+- Cada botão e cada atalho com posição e tamanho próprios, e a tela do jogo também pode ser movida e redimensionada
+- 7 estilos de botão, entre eles Vidro, Neon, Relevo 3D e Retrô, com cor ajustável
+- Direcional em setas, cruz clássica, joystick ou joystick RGB
 - Barra de atalhos que pode ser movida, redimensionada ou escondida
 - Suporte a controle Bluetooth, com mapeamento de botões
 
 **Visual**
-- 14 filtros de imagem, entre eles LCD, Scanlines, CRT, Suave e Conforto (menos luz azul)
+- Filtros em duas camadas, que podem ser combinados: um de tela (LCD, Scanlines, CRT, Suave, Desenho) e um de cores (Cores GBA, Cinza, Verde GB, Pocket, Sépia, Vívido, Conforto)
 - 12 fundos para a tela do jogo, além de cor sólida ou imagem da sua galeria
-- Temas de cores e tela cheia ou ampliada no modo horizontal
+- Temas de cores, cartões e menus pretos ou transparentes, e tela cheia ou ampliada no modo horizontal
 
 **Saves e biblioteca**
 - Saves .sav compatíveis com PKHeX, com opção de exportar e importar
@@ -77,11 +78,11 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 ## Requisitos
 
 - Android 7.0 ou superior
-- Processador de 64 bits (praticamente todos os celulares dos últimos anos)
+- Funciona em celulares de 64 bits e de 32 bits (cada um tem a sua versão para baixar)
 
 ## Instalação
 
-1. Baixe o arquivo `.apk` na [página de lançamentos](https://github.com/Bielk880/Spectra-GBA/releases/latest)
+1. Baixe o arquivo `.apk` pelos botões lá em cima (64 ou 32 bits). Na página da versão, o arquivo fica no fim, em **Assets**
 2. Abra o arquivo e permita a instalação, se o Android pedir
 3. No app, toque em **Sincronizar** para encontrar seus jogos ou em **Adicionar** para escolher um arquivo
 
@@ -99,7 +100,7 @@ Não. Ela é opcional e serve para exibir a tela de início original do console.
 Sim. O formato .sav é o mesmo usado pela maioria dos emuladores e pelo PKHeX.
 
 **Como funciona o Modo Link?**
-No menu da biblioteca, escolha Modo Link e selecione dois jogos. Os dois rodam juntos, e você alterna entre eles tocando no nome do jogador. Para trocar ou batalhar, use a opção de conexão por cabo dentro de cada jogo. Faça backup dos saves antes de usar.
+No menu da biblioteca, escolha Modo Link e selecione dois jogos. Os dois rodam juntos, e você alterna entre eles tocando no nome do jogador. Para trocar ou batalhar, use a opção de conexão por cabo dentro de cada jogo. No menu do Modo Link também dá para salvar e carregar estados dos dois jogos de uma vez.
 
 ## Encontrou um problema?
 
@@ -107,7 +108,7 @@ Abra uma [Issue](https://github.com/Bielk880/Spectra-GBA/issues) contando o que 
 
 ## Créditos
 
-- Emulação: [mGBA](https://mgba.io), de Jeffrey Pfau e colaboradores (Mozilla Public License 2.0)
+- Emulação: [mGBA](https://mgba.io), de Vicki Pfau e colaboradores (Mozilla Public License 2.0)
 - Conquistas: [rcheevos](https://github.com/RetroAchievements/rcheevos), do RetroAchievements (MIT License)
 
 O Spectra foi desenvolvido com auxílio de IA na programação. A direção do projeto, os testes e os ajustes foram feitos por mim, com base nas sugestões da comunidade.
