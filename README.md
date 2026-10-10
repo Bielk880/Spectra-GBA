@@ -78,7 +78,7 @@ O Spectra GBA nasceu da vontade de ter um emulador simples de usar, com visual c
 ## Requisitos
 
 - Android 7.0 ou superior
-- Funciona em celulares de 64 bits e de 32 bits.
+- Funciona em celulares de 64 bits e de 32 bits (cada um tem a sua versão para baixar)
 
 ## Instalação
 
@@ -115,9 +115,13 @@ O Spectra foi desenvolvido com auxílio de IA na programação. A direção do p
 
 O jogo que aparece nas capturas é o Spectra Ghost, um jogo de demonstração feito para o projeto.
 
+## Código-fonte do mGBA
+
+O Spectra usa o mGBA, que é de código aberto (Mozilla Public License 2.0). O código do mGBA usado no app, com as mudanças feitas para o Modo Link, está em [spectra-mgba-source.zip](spectra-mgba-source.zip). Dentro dele, o arquivo `LEIA-ME.md` explica o que foi alterado.
+
 ## Licença e privacidade
 
-O Spectra GBA é distribuído gratuitamente, com todos os direitos reservados. Veja a [licença](LICENSE) e a [política de privacidade](PRIVACY.md).
+O Spectra GBA é distribuído gratuitamente, com todos os direitos reservados (exceto as partes de terceiros, que seguem as próprias licenças). Veja a [licença](LICENSE) e a [política de privacidade](PRIVACY.md).
 
 ## Aviso legal
 
